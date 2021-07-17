@@ -12,15 +12,12 @@ Holding a Ph.D. in Computer Science and over fifteen years of experience between
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=a0Xr5X4Es5I
 " target="_blank"><img src="http://img.youtube.com/vi/a0Xr5X4Es5I/0.jpg" 
 alt="ecommerce with React and Django" width="200" height="180" border="10" /></a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=a7qvq05h4OU
 " target="_blank"><img src="http://img.youtube.com/vi/a7qvq05h4OU/0.jpg" 
 alt="ecommerce with React Native and AWS amplify" width="200" height="180" border="10" /></a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=oMFjvDb7TiM
 " target="_blank"><img src="http://img.youtube.com/vi/oMFjvDb7TiM/0.jpg" 
 alt="Django Machine Learning" width="200" height="180" border="10" /></a>
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9ccz0SBe63A
 " target="_blank"><img src="http://img.youtube.com/vi/9ccz0SBe63A/0.jpg" 
 alt="A Django blog" width="200" height="180" border="10" /></a>
